@@ -1,5 +1,12 @@
-# 📘 Kotlin Programming Basics Documentation  
-This repository contains documentation of assignments and projects from the **"Learning Kotlin Programming Basics"** course on Dicoding. It covers key Kotlin programming concepts and includes additional learning examples.
+# MPK Submission Project  
+
+**Rules for Completing the Submission**<br>  
+To ensure that your submission is reviewed and accepted properly, please avoid the following:  
+
+- Modifying the code inside the `main()` function.  
+- Changing (except for completing TODOs) or deleting the existing code.  
+- Creating new functions that are not part of the assigned tasks.  
+- Altering the project structure (deleting, renaming, or moving packages).  
 
 ---
 
